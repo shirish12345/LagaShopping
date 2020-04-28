@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21942" started-at="2020-04-28T08:16:28Z" finished-at="2020-04-28T08:16:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21942" started-at="2020-04-28T08:16:28Z" finished-at="2020-04-28T08:16:49Z">
+      <class name="AutomationDemo.DemoSite.BrowserLaunch">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:AutomationDemo.DemoSite.BrowserLaunch@5c7fa833]" name="browserLaunch" duration-ms="9670" started-at="2020-04-28T13:46:28Z" finished-at="2020-04-28T13:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- AutomationDemo.DemoSite.BrowserLaunch -->
+      <class name="Testcases.IndexTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Testcases.IndexTest@4678c730]" name="browserLaunch" duration-ms="9501" started-at="2020-04-28T13:46:37Z" finished-at="2020-04-28T13:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="testone()[pri:0, instance:Testcases.IndexTest@4678c730]" name="testone" duration-ms="2735" started-at="2020-04-28T13:46:47Z" finished-at="2020-04-28T13:46:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testone -->
+      </class> <!-- Testcases.IndexTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
